@@ -9,7 +9,7 @@
         "platform": "starkbank",
         "enabled": true
       },
-      "name": "JundiaÃ­",
+      "name": "Jundiaí",
       "brand": {
         "id": "g0LcQu5NdTyx5BWL4nSr",
         "gender": "F",
@@ -33,7 +33,7 @@
         {
           "end": "2026-01-03 21:35:00",
           "start": "2026-01-03 20:35:00",
-          "name": "ManutenÃ§Ã£o"
+          "name": "Manutenção"
         }
       ],
       "owner": {
@@ -124,7 +124,7 @@
         "neighborhood": "Vila Arens I",
         "street": "Rua Lacerda Franco",
         "state": "SP",
-        "city": "JundiaÃ­",
+        "city": "Jundiaí",
         "lng": -46.8736729,
         "lat": -23.19738,
         "zipcode": "13201-750",
@@ -435,7 +435,7 @@
       {
         "type": "normal",
         "active": true,
-        "name": "Combos e PromoÃ§Ãµes",
+        "name": "Combos e Promoções",
         "missing": false,
         "schedule": {
           "enabled": false,
@@ -779,7 +779,7 @@
       "stores/NGfho4kycwo6LXqg6vkW/categories/LzxDGxoeeEbNVD4dzlbv": {
         "type": "normal",
         "active": true,
-        "name": "Combos e PromoÃ§Ãµes",
+        "name": "Combos e Promoções",
         "missing": false,
         "schedule": {
           "enabled": false,
@@ -1116,7 +1116,7 @@
           "enabled": false,
           "minTime": 0
         },
-        "name": "Abacaxi com hortelÃ£ 500ml ",
+        "name": "Abacaxi com hortelã 500ml ",
         "availability": [],
         "slug": "abacaxi-com-hortela-500ml",
         "classifications": [],
@@ -1171,9 +1171,9 @@
         },
         "fourthPicture": "",
         "productPath": "stores/pHCdlq2RrG9U2HjI8w3A/products/1buh4QGPxFKIAF0n6NOb",
-        "name": "Calota CoraÃ§Ã£o",
+        "name": "Calota Coração",
         "storiesPicture": "",
-        "description": "CoraÃ§Ã£o, cebola, ovos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Coração, cebola, ovos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "active": true,
         "classifications": [],
         "secondPicture": "",
@@ -1316,10 +1316,10 @@
           "path": "stores/NGfho4kycwo6LXqg6vkW/products/3FfCeqAFiO8h0HhPTvfv"
         },
         "fourthPicture": "",
-        "mainCategory": "Combos e PromoÃ§Ãµes",
+        "mainCategory": "Combos e Promoções",
         "name": "Calotinha Especial + Coca 200ML",
         "thirdPicture": "",
-        "description": "HambÃºrguer, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface. ",
+        "description": "Hambúrguer, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface. ",
         "classifications": [],
         "slug": "calotinha-especial-coca-200ml-2",
         "secondPicture": "",
@@ -1359,7 +1359,7 @@
           "minTime": 0,
           "enabled": false
         },
-        "categoryName": "Combos e PromoÃ§Ãµes"
+        "categoryName": "Combos e Promoções"
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/3HDmpwiMU1Rn5CPtCl6j": {
         "categoryName": "Calotinhas (Ideal para 1 pessoa)",
@@ -1368,7 +1368,7 @@
           "id": "3HDmpwiMU1Rn5CPtCl6j",
           "path": "stores/NGfho4kycwo6LXqg6vkW/products/3HDmpwiMU1Rn5CPtCl6j"
         },
-        "description": "HambÃºrguer, cheddar, fritas, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Hambúrguer, cheddar, fritas, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "currentPrice": 3890,
         "mainCategory": "Calotinhas (Ideal para 1 pessoa)",
         "classifications": [],
@@ -1427,7 +1427,7 @@
         "description": "Frango em cubos, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "price": 3990,
         "storiesPicture": "",
-        "mainCategory": "Combos e PromoÃ§Ãµes",
+        "mainCategory": "Combos e Promoções",
         "missing": false,
         "id": "3hmTomkVE57CtACXganT",
         "advertisingMetadata": {
@@ -1464,7 +1464,7 @@
           "minTime": 0
         },
         "slug": "calotinha-frango-coca-200ml-fritas-150g",
-        "categoryName": "Combos e PromoÃ§Ãµes"
+        "categoryName": "Combos e Promoções"
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/41dmlt321ZkoWpJ9XJUS": {
         "active": true,
@@ -1554,8 +1554,8 @@
         "mainCategory": "Calotas (Serve 4 pessoas)",
         "storiesPicture": "",
         "secondPicture": "",
-        "description": "Contra FilÃ© em tiras, cebola, ovos, queijo mussarela, milho, tomate, alface, barbecue, mostarda e maionese.",
-        "name": "Calota Contra FilÃ© Acebolado "
+        "description": "Contra Filé em tiras, cebola, ovos, queijo mussarela, milho, tomate, alface, barbecue, mostarda e maionese.",
+        "name": "Calota Contra Filé Acebolado "
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/4rHJ9HBwUMyyKM8jnRv4": {
         "missing": false,
@@ -1908,12 +1908,12 @@
           "path": "stores/NGfho4kycwo6LXqg6vkW/products/7gJgS6okKVk0FXTpZ37x"
         },
         "mainCategory": "Torre de Fritas M (Serve 2 a 3 pessoas)",
-        "name": "Torre de CoraÃ§Ã£o (M)",
+        "name": "Torre de Coração (M)",
         "slug": "torre-de-coracao-(m)",
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/QmGUagfaMI6boUu1VemE",
         "active": true,
         "storiesPicture": "",
-        "description": "Molho Especial Xcb, queijo mussarela, e CoraÃ§Ã£o.",
+        "description": "Molho Especial Xcb, queijo mussarela, e Coração.",
         "pdvCode": "",
         "secondPicture": "",
         "missing": false,
@@ -2019,12 +2019,12 @@
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/9rpjFiAVxj9zadWN5Qcf": {
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/9rpjFiAVxj9zadWN5Qcf.jpg",
-        "name": "Cachorro Quente de CoraÃ§Ã£o",
+        "name": "Cachorro Quente de Coração",
         "customsPaths": [],
         "slug": "cachorro-quente-de-coracao",
         "active": true,
         "mainCategory": "Cachorro Quente",
-        "description": "Salsicha, CoraÃ§Ã£o, Molho Especial, Batata Palha, Maionese, Ketchup, Mostarda, Milho e Tomate.",
+        "description": "Salsicha, Coração, Molho Especial, Batata Palha, Maionese, Ketchup, Mostarda, Milho e Tomate.",
         "id": "9rpjFiAVxj9zadWN5Qcf",
         "price": 3790,
         "missing": false,
@@ -2067,7 +2067,7 @@
         },
         "id": "BUUR88QUOQrZ5BioRxyP",
         "customsPaths": [],
-        "description": "4 HambÃºrgueres, cheddar, fritas, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "4 Hambúrgueres, cheddar, fritas, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "advertisingMetadata": {
           "analyzedBy": "regex",
           "lastAnalyzedAt": "2026-01-13T22:51:16.125Z",
@@ -2105,11 +2105,11 @@
         "active": true,
         "categoryId": "LzxDGxoeeEbNVD4dzlbv",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/BUUR88QUOQrZ5BioRxyP.jpeg",
-        "categoryName": "Combos e PromoÃ§Ãµes",
+        "categoryName": "Combos e Promoções",
         "missing": false,
         "fourthPicture": "",
         "classifications": [],
-        "mainCategory": "Combos e PromoÃ§Ãµes"
+        "mainCategory": "Combos e Promoções"
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/CFBy30k4j7G8YlhS7YDz": {
         "mainCategory": "Torre de Fritas P (Serve 1 a 2 pessoas)",
@@ -2219,7 +2219,7 @@
         "storiesPicture": "",
         "active": true,
         "pdvCode": "FmxmnFXcfGF4a8u45Qtt",
-        "name": " GuaranÃ¡ AntÃ¡rctica 600ml",
+        "name": " Guaraná Antárctica 600ml",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/FmxmnFXcfGF4a8u45Qtt.jpeg",
         "availability": [],
         "schedule": {
@@ -2298,7 +2298,7 @@
         "active": true,
         "slug": "calota-bacon-c-catupiry",
         "missing": false,
-        "description": "4 hambÃºrgueres, bacon, Catupiry, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "4 hambúrgueres, bacon, Catupiry, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "mainCategory": "Calotas (Serve 4 pessoas)",
         "pdvCode": "",
         "id": "G4j9G1gHVnbUmzRRXQxo",
@@ -2560,7 +2560,7 @@
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/JWtXOds8SkqBljLt1AVW": {
         "id": "JWtXOds8SkqBljLt1AVW",
-        "description": "Costelinha SuÃ­na ao molho barbecue, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Costelinha Suína ao molho barbecue, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "pdvCode": "",
         "classifications": [],
         "slug": "calotinha-costelinha-ao-barbecue",
@@ -2639,7 +2639,7 @@
           "enabled": false,
           "minTime": 0
         },
-        "description": "4 HambÃºrgueres, cheddar, fritas, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "4 Hambúrgueres, cheddar, fritas, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "advertisingMetadata": {
           "lastAnalyzedAt": "2026-01-19T22:17:44.347Z",
           "analyzedBy": "regex",
@@ -3025,7 +3025,7 @@
         },
         "id": "PyDUAQbHJN955899urmE",
         "customsPaths": [],
-        "mainCategory": "Combos e PromoÃ§Ãµes",
+        "mainCategory": "Combos e Promoções",
         "name": "Calota Mexicano + COCA 1L",
         "missing": false,
         "schedule": {
@@ -3107,7 +3107,7 @@
         "slug": "calota-costela-coca-1l",
         "missing": false,
         "classifications": [],
-        "mainCategory": "Combos e PromoÃ§Ãµes",
+        "mainCategory": "Combos e Promoções",
         "label": "recommended",
         "price": 11990,
         "fourthPicture": "",
@@ -3132,7 +3132,7 @@
         "categoryId": "LzxDGxoeeEbNVD4dzlbv",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/QNcktdX7xEkxHbU3bf4U.jpeg",
         "storiesPicture": "",
-        "categoryName": "Combos e PromoÃ§Ãµes",
+        "categoryName": "Combos e Promoções",
         "availability": [],
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/LzxDGxoeeEbNVD4dzlbv",
         "advertisingMetadata": {
@@ -3189,7 +3189,7 @@
           "id": "QWRGZwhaGaStSYnprUmT",
           "path": "stores/NGfho4kycwo6LXqg6vkW/products/QWRGZwhaGaStSYnprUmT"
         },
-        "description": "8 hambÃºrgueres, ovos, presuntos, queijos, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "8 hambúrgueres, ovos, presuntos, queijos, maionese, ketchup, mostarda, milho, tomate e alface.",
         "categoryId": "UFHHaxWnP9jAeP3ujUd6",
         "classifications": [],
         "storiesPicture": "",
@@ -3299,7 +3299,7 @@
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/oXBQ4PXIDmfwG84GKRHn",
         "mainCategory": "Bebidas",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/RBHEls5wDwbrbHBDslCD.jpg",
-        "name": "GuaranÃ¡ Antarctica 1l",
+        "name": "Guaraná Antarctica 1l",
         "price": 900,
         "$ref": {
           "id": "RBHEls5wDwbrbHBDslCD",
@@ -3506,13 +3506,13 @@
         "missing": false
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/SevjAEZmt3KgArchTAAr": {
-        "mainCategory": "Combos e PromoÃ§Ãµes",
+        "mainCategory": "Combos e Promoções",
         "customsPaths": [],
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/LzxDGxoeeEbNVD4dzlbv",
         "secondPicture": "",
         "thirdPicture": "",
-        "name": "Calota Entreveiro com CoraÃ§Ã£o + COCA 1L",
-        "description": "4 hambÃºrguer, cebola, calabresa, bacon, coraÃ§Ã£o, ovos, presuntos, fatias de queijo maionese, ketchup, mostarda, milho, tomate e alface.",
+        "name": "Calota Entreveiro com Coração + COCA 1L",
+        "description": "4 hambúrguer, cebola, calabresa, bacon, coração, ovos, presuntos, fatias de queijo maionese, ketchup, mostarda, milho, tomate e alface.",
         "active": true,
         "availability": [],
         "price": 13490,
@@ -3918,7 +3918,7 @@
           "isAdvertisable": true
         },
         "customsPaths": [],
-        "mainCategory": "Combos e PromoÃ§Ãµes",
+        "mainCategory": "Combos e Promoções",
         "price": 9990,
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/LzxDGxoeeEbNVD4dzlbv",
         "id": "Vk6TpNr9MTcxongNelzU",
@@ -3931,7 +3931,7 @@
         "missing": false,
         "active": true,
         "fourthPicture": "",
-        "description": "4 hambÃºrgueres, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "4 hambúrgueres, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/Vk6TpNr9MTcxongNelzU.jpeg",
         "storiesPicture": ""
       },
@@ -3995,7 +3995,7 @@
         "active": true,
         "missing": false,
         "availability": [],
-        "name": "Ãgua Mineral sem GÃ¡s ",
+        "name": "Água Mineral sem Gás ",
         "advertisingMetadata": {
           "priority": {
             "level": "low",
@@ -4047,7 +4047,7 @@
         "price": 4190,
         "fourthPicture": "",
         "active": true,
-        "description": "2 hambÃºrgueres, 2 ovos, 2 presuntos, 2 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "2 hambúrgueres, 2 ovos, 2 presuntos, 2 fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "id": "WM7objJPlesy23IRk7IL",
         "customs": [],
         "slug": "calotinha-turbinado",
@@ -4232,9 +4232,9 @@
           }
         },
         "storiesPicture": "",
-        "description": "HambÃºrguer, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Hambúrguer, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "name": "MEGA COMBO 2x Calotinha Especial + COCA 600ML",
-        "mainCategory": "Combos e PromoÃ§Ãµes",
+        "mainCategory": "Combos e Promoções",
         "active": true,
         "$ref": {
           "id": "YD2Zo70Sa1TGDAZYoelH",
@@ -4247,7 +4247,7 @@
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/YN4rrzbpWgzGfKf1tNc3.jpeg",
         "availability": [],
         "description": "",
-        "name": "MaracujÃ¡ 500ml ",
+        "name": "Maracujá 500ml ",
         "advertisingMetadata": {
           "type": {
             "category": "tertiary",
@@ -4482,7 +4482,7 @@
         },
         "categoryId": "UFHHaxWnP9jAeP3ujUd6",
         "customs": [],
-        "description": "4 hambÃºrgueres, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "4 hambúrgueres, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "categoryName": "Calotas (Serve 4 pessoas)",
         "classifications": [],
         "fourthPicture": "",
@@ -4508,7 +4508,7 @@
         "missing": false,
         "availability": [],
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/QmGUagfaMI6boUu1VemE",
-        "description": "Molho Especial Xcb, queijo mussarela, e FilÃ©.",
+        "description": "Molho Especial Xcb, queijo mussarela, e Filé.",
         "customsPaths": [],
         "advertisingMetadata": {
           "isAdvertisable": false,
@@ -4539,7 +4539,7 @@
         },
         "pdvCode": "",
         "price": 12390,
-        "name": "Torre de FilÃ© (M)",
+        "name": "Torre de Filé (M)",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/aqcwX7KJx81qT47FrWKT.jpg",
         "active": true,
         "id": "aqcwX7KJx81qT47FrWKT",
@@ -4551,7 +4551,7 @@
         "active": true,
         "description": "Garrafa 2l",
         "customsPaths": [],
-        "name": "Refrigerante GuaranÃ¡ AntÃ¡rctica 2 L",
+        "name": "Refrigerante Guaraná Antárctica 2 L",
         "customs": [],
         "pdvCode": "13004739",
         "mainCategory": "Bebidas",
@@ -4733,7 +4733,7 @@
         "missing": false,
         "fourthPicture": "",
         "classifications": [],
-        "mainCategory": "Combos e PromoÃ§Ãµes"
+        "mainCategory": "Combos e Promoções"
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/cTX2OM3JaxdbASt2uuAi": {
         "mainCategory": "Molhos",
@@ -4922,7 +4922,7 @@
         },
         "price": 11490,
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/UFHHaxWnP9jAeP3ujUd6",
-        "description": "Pernil SuÃ­no em tiras, queijo mussarela, ovos, milho, tomate, alface, barbecue, mostarda e maionese.",
+        "description": "Pernil Suíno em tiras, queijo mussarela, ovos, milho, tomate, alface, barbecue, mostarda e maionese.",
         "id": "e053PP6KImVqScEaYMoo",
         "classifications": [],
         "secondPicture": "",
@@ -4937,7 +4937,7 @@
         "fourthPicture": "",
         "slug": "calota-pernil-suino",
         "missing": false,
-        "name": "Calota Pernil SuÃ­no",
+        "name": "Calota Pernil Suíno",
         "availability": [],
         "mainCategory": "Calotas (Serve 4 pessoas)",
         "pdvCode": "e053PP6KImVqScEaYMoo",
@@ -5006,7 +5006,7 @@
         "id": "e6RDHk6aOK3dNiDrmatS"
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/ePhiFiurPzQKffq3KkJL": {
-        "name": "Torre de CoraÃ§Ã£o (G)",
+        "name": "Torre de Coração (G)",
         "classifications": [],
         "advertisingMetadata": {
           "lastAnalyzedAt": "2025-11-14T19:01:46.428Z",
@@ -5051,7 +5051,7 @@
         "customs": [],
         "storiesPicture": "",
         "missing": false,
-        "description": "Molho Especial Xcb, queijo mussarela, e CoraÃ§Ã£o.",
+        "description": "Molho Especial Xcb, queijo mussarela, e Coração.",
         "fourthPicture": ""
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/eVgakCarAThTU8kNDa2d": {
@@ -5135,7 +5135,7 @@
         "classifications": [],
         "pdvCode": "",
         "price": 5990,
-        "description": "FilÃ© em cubos ao alho e Ã³leo, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Filé em cubos ao alho e óleo, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/i5fLPeFEUX5VIb6pNodA",
         "$ref": {
           "id": "eqjHYmX4uQ2F7Cwfd72K",
@@ -5151,7 +5151,7 @@
           "minTime": 0,
           "enabled": false
         },
-        "name": "Calotinha FilÃ© Ao Alho e Ã“leo",
+        "name": "Calotinha Filé Ao Alho e Óleo",
         "mainCategory": "Calotinhas (Ideal para 1 pessoa)"
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/ez7f3HINo5swpZtbTJtP": {
@@ -5307,8 +5307,8 @@
         "currentPrice": 5990,
         "secondPicture": "",
         "thirdPicture": "",
-        "name": "Calotinha FilÃ©",
-        "description": "FilÃ© em cubos, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "name": "Calotinha Filé",
+        "description": "Filé em cubos, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "active": true,
         "availability": [],
         "price": 5990,
@@ -5378,8 +5378,8 @@
         "fourthPicture": "",
         "mainCategory": "Calotinhas (Ideal para 1 pessoa)",
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/i5fLPeFEUX5VIb6pNodA",
-        "name": "Calotinha Contra FilÃ© Acebolado",
-        "description": "Contra FilÃ© em tiras, cebola, ovos, queijo mussarela, tomate, milho, alface, barbecue, mostarda e maionese.",
+        "name": "Calotinha Contra Filé Acebolado",
+        "description": "Contra Filé em tiras, cebola, ovos, queijo mussarela, tomate, milho, alface, barbecue, mostarda e maionese.",
         "id": "hJ00JsQqyeDTDQkM3xSC",
         "$ref": {
           "id": "hJ00JsQqyeDTDQkM3xSC",
@@ -5580,7 +5580,7 @@
         "productPath": "stores/pHCdlq2RrG9U2HjI8w3A/products/iork8DbBrwKBTEx04H5o",
         "active": true,
         "slug": "calota-bacon",
-        "description": "4 hambÃºrgueres, bacon, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "4 hambúrgueres, bacon, ovos, presuntos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "missing": false,
         "mainCategory": "Calotas (Serve 4 pessoas)",
         "pdvCode": "",
@@ -5689,7 +5689,7 @@
         "customsPaths": [
           "stores/NGfho4kycwo6LXqg6vkW/product-customs/3UAPFbdDNo6RwCTJ6L0L"
         ],
-        "description": "HambÃºrguer, bacon, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Hambúrguer, bacon, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/jzzFEMQjUpInEHAobRJ8.jpg",
         "$ref": {
           "id": "jzzFEMQjUpInEHAobRJ8",
@@ -5741,7 +5741,7 @@
         "pdvCode": "13094776"
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/ksVgc2codE3aTRZeR8f9": {
-        "description": "HambÃºrguer, bacon, Catupiry, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Hambúrguer, bacon, Catupiry, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "categoryName": "Calotinhas (Ideal para 1 pessoa)",
         "thirdPicture": "",
         "schedule": {
@@ -5806,7 +5806,7 @@
         "customsPaths": [
           "stores/NGfho4kycwo6LXqg6vkW/product-customs/Gk8a2UYLewVqRgKmAL8M"
         ],
-        "name": "Calota FilÃ© ao Alho e Ã“leo",
+        "name": "Calota Filé ao Alho e Óleo",
         "customs": [],
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/UFHHaxWnP9jAeP3ujUd6",
         "storiesPicture": "",
@@ -5843,7 +5843,7 @@
           "path": "stores/NGfho4kycwo6LXqg6vkW/products/n7QjTDNywDjwSgWYxrqE"
         },
         "thirdPicture": "",
-        "description": "FilÃ© em tiras ao alho e Ã³leo, ovos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface."
+        "description": "Filé em tiras ao alho e óleo, ovos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface."
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/nb8tcuHuQV8gEKAhvshQ": {
         "schedule": {
@@ -5935,7 +5935,7 @@
             "confidence": 0
           }
         },
-        "description": "Costelinha SuÃ­na ao molho barbecue, ovos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Costelinha Suína ao molho barbecue, ovos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/oU1j8w0gJEt1MH8Qizfk.jpg",
         "slug": "calota-costelinha-ao-barbecue",
         "availability": [],
@@ -5992,7 +5992,7 @@
         "missing": false,
         "id": "oZKhcwpFPIfsgUAMLbFo",
         "classifications": [],
-        "description": "HambÃºrguer, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Hambúrguer, ovo, presunto, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/i5fLPeFEUX5VIb6pNodA",
         "availability": [],
         "pdvCode": "",
@@ -6340,7 +6340,7 @@
         "active": true,
         "secondPicture": "",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/trNLj4smTnJH7TtRL4Zx.jpeg",
-        "mainCategory": "Combos e PromoÃ§Ãµes",
+        "mainCategory": "Combos e Promoções",
         "advertisingMetadata": {
           "lastAnalyzedAt": "2026-01-13T23:10:44.918Z",
           "type": {
@@ -6372,7 +6372,7 @@
         "missing": false,
         "classifications": [],
         "slug": "calota-alcatra-4-queijos-guarana-2l",
-        "name": "Calota Alcatra 4 Queijos + GUARANÃ 2L",
+        "name": "Calota Alcatra 4 Queijos + GUARANÁ 2L",
         "customsPaths": [],
         "schedule": {
           "minTime": 0,
@@ -6566,14 +6566,14 @@
           "lastAnalyzedAt": "2025-11-14T19:45:48.924Z"
         },
         "id": "udZh0J6E752LOst2CrSn",
-        "name": "Calota FilÃ©",
+        "name": "Calota Filé",
         "mainCategory": "Calotas (Serve 4 pessoas)",
         "active": true,
         "secondPicture": "",
         "classifications": [],
         "pdvCode": "",
         "slug": "calota-file",
-        "description": "FilÃ© em tiras, ovos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Filé em tiras, ovos, fatias de queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "availability": []
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/v4t2doVAb5PiulxpACvi": {
@@ -6700,7 +6700,7 @@
         "secondPicture": "",
         "pdvCode": "",
         "price": 5290,
-        "name": "Torre de CoraÃ§Ã£o (P)",
+        "name": "Torre de Coração (P)",
         "mainCategory": "Torre de Fritas P (Serve 1 a 2 pessoas)",
         "$ref": {
           "id": "wnqkpX4MUdjJoDYUhkBP",
@@ -6731,7 +6731,7 @@
         },
         "slug": "torre-de-coracao-(p)",
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/ZKtZdkRSouY1t26u586z",
-        "description": "Molho Especial Xcb, queijo mussarela, e CoraÃ§Ã£o."
+        "description": "Molho Especial Xcb, queijo mussarela, e Coração."
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/x7vIgVN6uExtsdUmgn8C": {
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/x7vIgVN6uExtsdUmgn8C.jpg",
@@ -6837,7 +6837,7 @@
           "minTime": 0,
           "enabled": false
         },
-        "name": "Torre de FilÃ© (P)",
+        "name": "Torre de Filé (P)",
         "slug": "torre-de-file-(p)",
         "thirdPicture": "",
         "customs": [],
@@ -6872,7 +6872,7 @@
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/ZKtZdkRSouY1t26u586z",
         "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/xdD9t7XAbU7APCcNv7iz.jpg",
         "missing": false,
-        "description": "Molho Especial Xcb, queijo mussarela, e FilÃ©.",
+        "description": "Molho Especial Xcb, queijo mussarela, e Filé.",
         "classifications": [],
         "pdvCode": "",
         "availability": [],
@@ -7076,7 +7076,7 @@
         "active": true,
         "classifications": [],
         "secondPicture": "",
-        "description": "Molho Especial Xcb, queijo mussarela, e FilÃ©.",
+        "description": "Molho Especial Xcb, queijo mussarela, e Filé.",
         "customsPaths": [],
         "missing": false,
         "advertisingMetadata": {
@@ -7107,7 +7107,7 @@
           "enabled": false,
           "minTime": 0
         },
-        "name": "Torre de FilÃ© (G)",
+        "name": "Torre de Filé (G)",
         "price": 18090,
         "$ref": {
           "id": "zk8NlRjbOaQscps2vcsi",
@@ -7118,7 +7118,7 @@
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/OPISGgXtJmcmlxu7xsYB"
       },
       "stores/NGfho4kycwo6LXqg6vkW/products/ztbrFCSSmr04sM3nal3K": {
-        "description": "CoraÃ§Ã£o, cebola, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
+        "description": "Coração, cebola, ovo, queijo, maionese, ketchup, mostarda, milho, tomate e alface.",
         "categoryName": "Calotinhas (Ideal para 1 pessoa)",
         "thirdPicture": "",
         "schedule": {
@@ -7166,7 +7166,7 @@
         },
         "availability": [],
         "active": true,
-        "name": "Calotinha CoraÃ§Ã£o",
+        "name": "Calotinha Coração",
         "classifications": [],
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/i5fLPeFEUX5VIb6pNodA",
         "pdvCode": ""
@@ -7182,7 +7182,7 @@
             "extraPrice": 900,
             "missing": false,
             "maxChoices": 3,
-            "title": "HambÃºrguer (1 Unidade)",
+            "title": "Hambúrguer (1 Unidade)",
             "quantity": 0,
             "active": true,
             "description": "1 Unidade.",
@@ -7267,7 +7267,7 @@
             "id": "4606cee4-a74f-47fe-b63b-56a4ec82f6f8",
             "description": "90 g.",
             "quantity": 0,
-            "title": "CoraÃ§Ã£o (90 g)",
+            "title": "Coração (90 g)",
             "pdvCode": "13338932",
             "extraPrice": 1000,
             "maxChoices": 3,
@@ -7360,7 +7360,7 @@
           },
           {
             "active": false,
-            "title": "Adicional Calotinha FilÃ©",
+            "title": "Adicional Calotinha Filé",
             "missing": false,
             "quantity": 0,
             "id": "aabea41f-1c24-4d36-9c68-d049cb08b97b",
@@ -7445,7 +7445,7 @@
             "description": "Adicional de 4 hamburgueres",
             "pdvCode": "13338566",
             "picture": "",
-            "title": "HambÃºrguer (4 hamburgueres)",
+            "title": "Hambúrguer (4 hamburgueres)",
             "active": true,
             "extraPrice": 3700,
             "missing": false,
@@ -7481,7 +7481,7 @@
             "extraPrice": 600,
             "id": "138b2c1f-e893-4688-bb94-3b5dff26da2c",
             "maxChoices": 3,
-            "title": "Alho e Ã“leo",
+            "title": "Alho e Óleo",
             "pdvCode": "",
             "missing": false,
             "picture": "",
@@ -7549,7 +7549,7 @@
             "extraPrice": 1200
           },
           {
-            "title": "CoraÃ§Ã£o (250 g)",
+            "title": "Coração (250 g)",
             "pdvCode": "13338564",
             "picture": "",
             "quantity": 0,
@@ -7578,7 +7578,7 @@
             "missing": true,
             "active": true,
             "picture": "",
-            "title": "FilÃ©",
+            "title": "Filé",
             "maxChoices": 3,
             "pdvCode": "14224374",
             "quantity": 0,
@@ -7756,7 +7756,7 @@
             "extraPrice": 1000,
             "description": "",
             "missing": false,
-            "title": "CoraÃ§Ã£o (80 g)"
+            "title": "Coração (80 g)"
           },
           {
             "title": "Costela (80g)",
@@ -7845,7 +7845,7 @@
     "chatbotConfig": {
       "inHouse": {
         "enabled": false,
-        "observations": "Poxa, infelizmente nÃ£o temos local presencial, mas fique a vontade para pedir aqui e retirar, Ã© bem rapidinho a nossa retirada.... ",
+        "observations": "Poxa, infelizmente não temos local presencial, mas fique a vontade para pedir aqui e retirar, é bem rapidinho a nossa retirada.... ",
         "reservationRequired": false,
         "reservationsInstructions": ""
       },
@@ -7880,8 +7880,8 @@
       },
       "enabled": false,
       "other": {
-        "brandHistory": "Criar um lanche grande nÃ£o foi com o intuito de impressionar, mas sim criar algo saboroso e com tamanho suficiente para compartilhar com os amigos e a famÃ­lia! ComeÃ§amos nossa jornada com uma paixÃ£o por oferecer experiÃªncias gastronÃ´micas Ãºnicas. Desde entÃ£o, temos crescido e nos consolidado como uma referÃªncia em qualidadeÂ eÂ sabor.\nO nome x-Calota Ã© uma menÃ§Ã£o ao tamanho parecido com uma calota de carros e possui diversos sabores diferentes para vocÃª se deliciar, Temos um sabor para cada paladar! Temos uma incrÃ­vel variedade de 25 deliciosos sabores esperando por vocÃª, com nossos irresistÃ­veis combos e opÃ§Ãµes personalizadas. Oferecemos dois tamanhos maravilhosos: o X Calota, com generosos 28cm, ideal para atÃ© 4 pessoas desfrutarem juntas a partir de R$ 79,90 e o adorÃ¡vel X Calotinha ou X Calota menor, medindo 14cm, perfeito para uma pessoa faminta a partir de R$ 26,90. Nossas promoÃ§Ãµes sÃ£o sempre nossos combos que incluem geralmente refrigerante, e as vezes batatas fritas. Sempre informar os combos quando mandar sobre promoÃ§Ãµes.",
-        "jobOpenings": "Sempre que encaminharem currÃ­culos informar que vamos enviar ao responsÃ¡vel."
+        "brandHistory": "Criar um lanche grande não foi com o intuito de impressionar, mas sim criar algo saboroso e com tamanho suficiente para compartilhar com os amigos e a família! Começamos nossa jornada com uma paixão por oferecer experiências gastronômicas únicas. Desde então, temos crescido e nos consolidado como uma referência em qualidade e sabor.\nO nome x-Calota é uma menção ao tamanho parecido com uma calota de carros e possui diversos sabores diferentes para você se deliciar, Temos um sabor para cada paladar! Temos uma incrível variedade de 25 deliciosos sabores esperando por você, com nossos irresistíveis combos e opções personalizadas. Oferecemos dois tamanhos maravilhosos: o X Calota, com generosos 28cm, ideal para até 4 pessoas desfrutarem juntas a partir de R$ 79,90 e o adorável X Calotinha ou X Calota menor, medindo 14cm, perfeito para uma pessoa faminta a partir de R$ 26,90. Nossas promoções são sempre nossos combos que incluem geralmente refrigerante, e as vezes batatas fritas. Sempre informar os combos quando mandar sobre promoções.",
+        "jobOpenings": "Sempre que encaminharem currículos informar que vamos enviar ao responsável."
       },
       "phoneToCalls": ""
     },
