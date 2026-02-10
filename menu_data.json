@@ -1,4 +1,4 @@
-﻿{
+{
   "store": {
     "loading": false,
     "store": {
@@ -4199,7 +4199,7 @@
         "categoryPath": "stores/NGfho4kycwo6LXqg6vkW/categories/LzxDGxoeeEbNVD4dzlbv",
         "price": 6490,
         "label": "new",
-        "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/YD2Zo70Sa1TGDAZYoelH.jpeg",
+        "picture": "https://i.imgur.com/bpJJsRB.png",
         "id": "YD2Zo70Sa1TGDAZYoelH",
         "schedule": {
           "minTime": 0,
@@ -4474,7 +4474,7 @@
           "id": "Zqe3Jzv7DVksLovi9jLt",
           "path": "stores/NGfho4kycwo6LXqg6vkW/products/Zqe3Jzv7DVksLovi9jLt"
         },
-        "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/Zqe3Jzv7DVksLovi9jLt.jpg",
+        "picture": "https://i.imgur.com/FGnqAJw.png",
         "productPath": "stores/quz53aLnPIbWUhGb8aaZ/products/Zqe3Jzv7DVksLovi9jLt",
         "schedule": {
           "minTime": 0,
@@ -5986,7 +5986,7 @@
         },
         "storiesPicture": "",
         "name": "Calotinha Especial",
-        "picture": "public/stores/NGfho4kycwo6LXqg6vkW/images/products/oZKhcwpFPIfsgUAMLbFo.jpg",
+        "picture": "https://i.imgur.com/5sg5tbH.png",
         "thirdPicture": "",
         "active": true,
         "missing": false,
@@ -7880,7 +7880,7 @@
       },
       "enabled": false,
       "other": {
-        "brandHistory": "Criar um lanche grande não foi com o intuito de impressionar, mas sim criar algo saboroso e com tamanho suficiente para compartilhar com os amigos e a família! Começamos nossa jornada com uma paixão por oferecer experiências gastronômicas únicas. Desde então, temos crescido e nos consolidado como uma referência em qualidade e sabor.\nO nome x-Calota é uma menção ao tamanho parecido com uma calota de carros e possui diversos sabores diferentes para você se deliciar, Temos um sabor para cada paladar! Temos uma incrível variedade de 25 deliciosos sabores esperando por você, com nossos irresistíveis combos e opções personalizadas. Oferecemos dois tamanhos maravilhosos: o X Calota, com generosos 28cm, ideal para até 4 pessoas desfrutarem juntas a partir de R$ 79,90 e o adorável X Calotinha ou X Calota menor, medindo 14cm, perfeito para uma pessoa faminta a partir de R$ 26,90. Nossas promoções são sempre nossos combos que incluem geralmente refrigerante, e as vezes batatas fritas. Sempre informar os combos quando mandar sobre promoções.",
+        "brandHistory": "Criar um lanche grande não foi com o intuito de impressionar, mas sim criar algo saboroso e com tamanho suficiente para compartilhar com os amigos e a família! Começamos nossa jornada com uma paixão por oferecer experiências gastronômicas únicas. Desde então, temos crescido e nos consolidado como uma referência em qualidade e sabor.\nO nome x-Calota é uma menção ao tamanho parecido com uma calota de carros e possui diversos sabores diferentes para você se deliciar, Temos um sabor para cada paladar! Temos uma incrível variedade de 25 deliciosos sabores esperando por você, com nossos irresistíveis combos e opções personalizadas. Oferecemos dois tamanhos maravilhosos: o X Calota, com generosos 28cm, ideal para até 4 pessoas desfrutarem juntas a partir de R$ 79,90 e o adorável X Calotinha ou X Calota menor, medindo 14cm, perfeito para uma pessoa faminta a partir de R$ 26,90. Nossas promoções são sempre nossos combos que incluem geralmente refrigerante, e as vezes batatas fritas. Sempre informar os combos quando mandar sobre promoções.",
         "jobOpenings": "Sempre que encaminharem currículos informar que vamos enviar ao responsável."
       },
       "phoneToCalls": ""
